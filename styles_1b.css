@@ -69,14 +69,14 @@ h2 a:hover,
 }
 /*heading*/
 .loader-circle-2 {
-    border-right-color: #ffc513;
+    border-right-color: #4290e0;
 }
 .loader .line:nth-child(6),
 .loader .subline:nth-child(11) {
-    background: #ffc513;
+    background: #4290e0;
 }
 .loader .needle:before {
-    border-color: transparent #ffc513 transparent transparent;
+    border-color: transparent #4290e0 transparent transparent;
 }
 h1,
 h2.h-lg,
@@ -102,17 +102,17 @@ h2.h-lg,
 .page-footer .footer-phone h2 {
 }
 .side-block {
-    border-bottom: 1px solid#ffc513;
+    border-bottom: 1px solid#4290e0;
 }
 .vc_toggle,
 .divider-line {
-    border-top: 1px solid#ffc513;
+    border-top: 1px solid#4290e0;
 }
 .promo-banner {
-    border: 2px dotted#ffc513;
+    border: 2px dotted#4290e0;
 }
 .quote-simple {
-    border-left: 4px solid#ffc513;
+    border-left: 4px solid#4290e0;
 }
 .color,
 a.color,
@@ -196,39 +196,39 @@ td#today,
 .services-block-alt .image .fack_icon_div,
 body .search-container:hover .button,
 .calendar_wrap td#today {
-    background-color: #ffc513 !important;
+    background-color: #4290e0 !important;
 }
 header .heade-mobile .search-container .button:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 body .services-block-alt .image i,
 .services-block-alt .image .fack_icon_div {
-    -webkit-box-shadow: 0 0 0 20px #ffc513;
-    -moz-box-shadow: 0 0 0 20px #ffc513;
-    box-shadow: 0 0 0 20px #ffc513;
+    -webkit-box-shadow: 0 0 0 20px #4290e0;
+    -moz-box-shadow: 0 0 0 20px #4290e0;
+    box-shadow: 0 0 0 20px #4290e0;
 }
 .services-block-alt .image:hover i,
 .services-block-alt .image:hover .fack_icon_div {
-    -webkit-box-shadow: 0 0 0 0px #ffc513;
-    -moz-box-shadow: 0 0 0 0px #ffc513;
-    box-shadow: 0 0 0 0px #ffc513;
+    -webkit-box-shadow: 0 0 0 0px #4290e0;
+    -moz-box-shadow: 0 0 0 0px #4290e0;
+    box-shadow: 0 0 0 0px #4290e0;
 }
 header.page-header .appointment,
 header.page-header .appointment:after,
 .modal-header .appointment:after {
-    border-color: transparent #ffc513 transparent transparent;
+    border-color: transparent #4290e0 transparent transparent;
 }
 .input-custom:hover,
 .input-custom:focus,
 .input-custom.focus,
 .table .cell-marker,
 .coupon-print-inside {
-    border-color: #ffc513;
+    border-color: #4290e0;
 }
 header.page-header .appointment,
 .modal-header .appointment,
 .table .cell-marker {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .color,
 a.color,
@@ -245,15 +245,15 @@ header.page-header-1 .header-right .address span,
 .testimonial-card:after,
 .icon-star:before,
 blockquote::before {
-    color: #ffc513;
+    color: #4290e0;
 }
 .page-footer .footer-phone .number {
-    color: #ffc513;
+    color: #4290e0;
 }
 /*Menu Color*/
 @media (min-width: 992px) {
     header.page-header-1 .navbar-nav > li > a:after {
-        background-color: #ffc513;
+        background-color: #4290e0;
         color: #3a3a3a;
     }
 }
@@ -262,7 +262,7 @@ blockquote::before {
 #mainSlider .slide-content p {
 }
 #mainSlider .slide-content h3 {
-    color: #ffc513;
+    color: #4290e0;
 }
 #mainSlider .slick-prev:before,
 #mainSlider .slick-next:before {
@@ -285,14 +285,14 @@ input[type="submit"]:hover,
 }
 button#place_order,
 .btn-invert {
-    background: #ffc513;
+    background: #4290e0;
 }
 .btn-lg.btn-invert.view-more-testimonial {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .blog-post a.more-link:before,
 .blog-post a.more-link:after {
-    background-color: #ffc513 !important;
+    background-color: #4290e0 !important;
 }
 .btn.btn-border {
 }
@@ -329,7 +329,7 @@ input[type="submit"]:hover,
 .tags-list li a:hover,
 #slide-nav #slidemenu.slide-active .search-container .button,
 .tagcloud a:hover {
-    background: #ffc513 !important;
+    background: #4290e0 !important;
 }
 @media (max-width: 991px) {
     .header-info-toggle [class*="icon-"]:hover {
@@ -337,13 +337,13 @@ input[type="submit"]:hover,
 }
 .promo01 .promo01-content .text-01,
 .promo01 .promo01-header .text-03 {
-    color: #ffc513;
+    color: #4290e0;
 }
 .promo01.colors-cheme-02 .promo01-content .text-01,
 .promo01.colors-cheme-02 .promo01-header .text-03 {
 }
 .promo01 .promo01-content .text-02 {
-    color: #ffc513 !important;
+    color: #4290e0 !important;
 }
 .promo01.colors-cheme-02 .promo01-content .text-02 {
 }
@@ -356,115 +356,115 @@ input[type="submit"]:hover,
 .promo01.colors-cheme-02 .promo01-header .text-02 {
 }
 .coupon .coupon-all::after {
-    border-color: #ffc513 transparent transparent;
+    border-color: #4290e0 transparent transparent;
 }
 a.btn.btn-border.print-promo.print-ele-link:after,
 a.btn.btn-border.print-promo.print-ele-link:before {
-    background: #ffc513 !important;
+    background: #4290e0 !important;
 }
 .promo01 .promo01-content a.btn.btn-border.print-promo.print-ele-link {
-    border: 1px solid #ffc513;
+    border: 1px solid #4290e0;
 }
 .promo01.colors-cheme-02 .promo01-content a.btn.btn-border {
 }
 .promo01.colors-cheme-02 .promo01-content a.btn.btn-border span:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 .coupon-text2 {
-    color: #ffc513;
+    color: #4290e0;
 }
 .coupon .coupon-all:hover::after {
-    border-top-color: #ffc513;
+    border-top-color: #4290e0;
 }
 .coupon .coupon-all:hover {
-    background-color: #ffc513;
-    color: #ffc513;
+    background-color: #4290e0;
+    color: #4290e0;
 }
 header .header-cart:hover a.icon,
 header .header-cart.opened a.icon {
-    color: #ffc513 !important;
+    color: #4290e0 !important;
 }
 .woocommerce .widget_price_filter .ui-slider .ui-slider-range {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .woocommerce span.onsale,
 header .header-cart .badge {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .woocommerce .star-rating span::before,
 .woocommerce .comment-form p.stars a,
 .woocommerce-tabs .tabs.wc-tabs li.active a {
-    color: #ffc513 !important;
+    color: #4290e0 !important;
 }
 .wc-tabs > li > a::after {
-    background: #ffc513 !important;
+    background: #4290e0 !important;
 }
 .woocommerce-pagination .page-numbers .page-numbers.current,
 .woocommerce nav.woocommerce-pagination ul li a:focus,
 body.woocommerce nav.woocommerce-pagination ul li a:hover,
 .woocommerce nav.woocommerce-pagination ul li span.current {
-    color: #ffc513 !important;
+    color: #4290e0 !important;
 }
 .filters-row .page-numbers .current {
     background-color: transparent !important;
     color: #fede00;
 }
 header.page-header-2 a.appointment:after {
-    border-color: transparent #ffc513 transparent transparent;
+    border-color: transparent #4290e0 transparent transparent;
 }
 header.page-header-2 a.appointment {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 @media (min-width: 992px) {
     header.page-header-2 .navbar-nav > li.current-menu-item > a:after,
     header.page-header-2 .navbar-nav > li:hover > a:after {
-        background-color: #ffc513;
+        background-color: #4290e0;
     }
     header.page-header-2 .navbar-nav .dropdown-menu li > a:hover,
     header.page-header-2 .navbar-nav .dropdown-menu li > a:focus {
-        color: #ffc513;
+        color: #4290e0;
     }
 }
 header.page-header-2 .search-container:hover .button {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 #mainSlider .banner-btn,
 #mainSlider .banner-btn:focus {
-    border: 2px solid #ffc513;
+    border: 2px solid #4290e0;
 }
 .services-tabs .services-tabs-icons > span.active {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .icons-tabs .nav-tabs > li.active > a [class*="icon-"],
 .icons-tabs .nav-tabs > li > a:hover [class*="icon-"] {
-    color: #ffc513;
+    color: #4290e0;
 }
 .icons-tabs .nav-tabs > li > a::after {
-    background: #ffc513;
+    background: #4290e0;
 }
 .marker-list-sm-1 > li:after {
-    color: #ffc513;
+    color: #4290e0;
 }
 .how-works-number {
-    color: #ffc513;
+    color: #4290e0;
 }
 .banner-free .banner-text-1 {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .banner-free .banner-text-1:after {
-    border-color: #ffc513 transparent transparent transparent;
+    border-color: #4290e0 transparent transparent transparent;
 }
 .pricing-box-header {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .text-icon-hor2 .icon-wrapper2 {
-    color: #ffc513;
+    color: #4290e0;
 }
 #appointmentForm.modalform-sm .wpcf7-submit.btn {
-    border-color: #ffc513;
+    border-color: #4290e0;
 }
 body .textarea-custom:hover,
 body .textarea-custom:focus,
@@ -472,248 +472,248 @@ body .input-custom:hover,
 body .input-custom.focus,
 body .wpcf7-form-control.wpcf7-textarea:hover,
 body .wpcf7-form-control.wpcf7-textarea:focus {
-    border-color: #ffc513 !important;
+    border-color: #4290e0 !important;
 }
 .bootstrap-datetimepicker-widget table td.active,
 .bootstrap-datetimepicker-widget table td.active:hover {
-    background-color: #ffc513 !important;
+    background-color: #4290e0 !important;
 }
 div.wpcf7-validation-errors,
 div.wpcf7-acceptance-missing {
-    border-color: #ffc513;
+    border-color: #4290e0;
 }
 @media (min-width: 992px) {
     header.page-header-2 .navbar-nav .dropdown-menu {
-        border-bottom-color: #ffc513;
+        border-bottom-color: #4290e0;
     }
 }
 .pricing-box-footer .mark-icon {
-    color: #ffc513;
+    color: #4290e0;
 }
 @media (max-width: 991px) {
     header.page-header-2 .navbar-toggle:hover {
-        color: #ffc513;
+        color: #4290e0;
     }
 }
 .filters-row .page-numbers .current {
-    color: #ffc513;
+    color: #4290e0;
 }
 .estimator-panel .col-title [class*="icon"] {
-    color: #ffc513;
+    color: #4290e0;
 }
 .service-grid-item:hover .service-grid-item-title {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .service-grid-item-title:after {
-    border-color: transparent transparent #ffc513 transparent;
+    border-color: transparent transparent #4290e0 transparent;
 }
 @media (max-width: 767px) {
     .estimator-panel .panel-toggle {
-        color: #ffc513;
+        color: #4290e0;
     }
 }
 .car-faq-text .vc_toggle_title:hover h4 {
-    color: #ffc513;
+    color: #4290e0;
 }
 .filters-by-category ul li a:hover,
 .filters-by-category ul li a.selected {
-    color: #ffc513;
+    color: #4290e0;
 }
 .filters-by-category ul li a:after {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .twentytwenty-handle {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .section-blog .item .item__img .icon {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .slick-dots li.slick-active button,
 .slick-dots li.slick-active button:hover {
-    background: #ffc513;
+    background: #4290e0;
 }
 .block-title .title-separator {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .block-title .title-separator:before,
 .block-title .title-separator:after {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .faq-accordion .faq__title:before {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .info02 .info02__icon {
-    color: #ffc513;
+    color: #4290e0;
 }
 .blog-post .post-meta li.author .author__text {
-    color: #ffc513;
+    color: #4290e0;
 }
 .promo01 .promo01-header {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .promo01 .promo01-content .text-02 {
-    color: #ffc513;
+    color: #4290e0;
 }
 .services-block-alt .caption .title a:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 .services-block-alt:before {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .nav-pills > li.active > a {
-    color: #ffc513 !important;
+    color: #4290e0 !important;
 }
 .nav-aside ul li a:before {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .address-info .address-info__icon {
-    color: #ffc513;
+    color: #4290e0;
 }
 .services-box .services-box__icon {
-    color: #ffc513;
+    color: #4290e0;
 }
 .card01 .card01__wrapper:before {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .card01 .card01__title a:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 .card01 .card01__social-icon li a:hover {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .marker-list-sm > li:after {
-    color: #ffc513;
+    color: #4290e0;
 }
 .promo-01 .promo-01__title .text-02 {
-    color: #ffc513;
+    color: #4290e0;
 }
 .box01 .box01__icon:before {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .promo02 .promo02__marker {
-    color: #ffc513;
+    color: #4290e0;
 }
 .stat-box02 .stat-box02__value {
-    color: #ffc513;
+    color: #4290e0;
 }
 .text-icon:before {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .video-block .video-block__icon span {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .stat-box02 .stat-box02__value:before {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .pricing-box02:before {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .pricing-box02.slick-center .pricing-box02__price,
 .pricing-box02.item-active .pricing-box02__price {
-    color: #ffc513;
+    color: #4290e0;
 }
 .newsbox .newsbox__title a:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 .newsbox .newsbox__data .icon-marker {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .newsbox .newsbox__link:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 .box-custom01 .box-custom01__icon .icon {
-    color: #ffc513;
+    color: #4290e0;
 }
 .video-wrapper .video-block__icon span {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .services-tabs .services-tabs-nav > li a:before {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .start-box02 .start-box02__text {
-    border-color: #ffc513;
+    border-color: #4290e0;
 }
 .pt-slick-button .slick-arrow:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 .banner-service .banner-text-3 i.icon {
-    color: #ffc513;
+    color: #4290e0;
 }
 .services-title .title-separator {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .estimate-current-change {
-    color: #ffc513;
+    color: #4290e0;
 }
 .estimate-part-price-price {
-    color: #ffc513;
+    color: #4290e0;
 }
 .estimate-part-close {
-    color: #ffc513;
+    color: #4290e0;
 }
 .estimate-table-info-list .round-icon {
-    color: #ffc513;
-    border-color: #ffc513;
+    color: #4290e0;
+    border-color: #4290e0;
 }
 .estimator-panel .form-group label a,
 div.rwmb-input .form-group label a {
-    color: #ffc513;
+    color: #4290e0;
 }
 #fullServices.modal .modal-header .close {
-    color: #ffc513;
+    color: #4290e0;
 }
 .services-title .title-separator:before,
 .services-title .title-separator:after {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .btn:not([data-action]).btn-border {
-    border-color: #ffc513;
+    border-color: #4290e0;
 }
 .social-links ul li a {
-    color: #ffc513;
+    color: #4290e0;
 }
 .gallery-item .hover .view:before {
-    border-color: #ffc513;
+    border-color: #4290e0;
 }
 @media (max-width: 991px) {
     header .heade-mobile .navbar-toggle:hover span {
-        background-color: #ffc513;
+        background-color: #4290e0;
     }
 }
 @media (max-width: 991px) {
     .header-info-toggle [class*="icon-"]:hover {
-        color: #ffc513;
+        color: #4290e0;
     }
 }
 #appointmentForm.modal .modal-dialog .modal-header .close {
-    color: #ffc513;
+    color: #4290e0;
 }
 .tags-list a:hover {
-    background-color: #ffc513;
+    background-color: #4290e0;
 }
 .social-box .social-box__list ul li a:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 .breadcrumbs span {
-    color: #ffc513;
+    color: #4290e0;
 }
 .side-post:hover .side-post__content .side-post__title {
-    color: #ffc513;
+    color: #4290e0;
 }
 .panel-menu #mm0.mmpanel a:not(.mm-close):hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 .panel-menu #mm0.mmpanel a:not(.mm-close):hover:after {
-    color: #ffc513;
+    color: #4290e0;
 }
 .panel-menu li.mm-close-parent .mm-close:hover:before {
-    color: #ffc513;
+    color: #4290e0;
 }
 .panel-menu ul li a:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 header.page-header-2 .header-phone:hover {
-    color: #ffc513;
+    color: #4290e0;
 }
 .btn-invert:before,
 .btn-invert:after {
