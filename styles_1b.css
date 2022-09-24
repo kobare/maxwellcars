@@ -12,7 +12,7 @@ body {
     }
 }
 #pageTitle.page-title-wrapper {
-    background-image: url(https://smartdata.tonytemplates.com/car-repair-service-v4/car2/wp-content/uploads/sites/6/2020/08/header-photo-bg02.jpg);
+    background-image: url(img/header-photo-bg02.jpg);
 }
 body:not(.home) #pageContent {
     padding-top: 100px;
