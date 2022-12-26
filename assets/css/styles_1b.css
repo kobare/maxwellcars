@@ -12,7 +12,7 @@ body {
     }
 }
 #pageTitle.page-title-wrapper {
-    background-image: url(img/header-photo-bg02.jpg);
+    background-image: url(../img/header-photo-bg02.jpg);
 }
 body:not(.home) #pageContent {
     padding-top: 100px;
